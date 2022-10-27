@@ -8,6 +8,9 @@
 User eXperience (UX);
 Адаптивный интерфейс для разных устройств.
 
+**Ссылка на сайт**
+https://arthurleks.github.io/russian-travel/
+
 **Технологии**
 -Html5
 -CSS3
