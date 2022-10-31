@@ -1,11 +1,11 @@
 .place__link {
     position: relative;
     color: #fff;
-    line-height: 1.375rem;
-    transition: opacity .3s linear;
     text-decoration: none;
-    font-weight: normal;
     font-size: 1.125rem;
+    font-weight: normal;
+    line-height: 1.375rem;
+    transition: opacity .2s linear;
   }
   
   .place__link:hover {
@@ -13,13 +13,13 @@
   }
   
   .place__link:after {
-    background-color: #fff;
     content: "";
+    width: 100%;
+    height: 2px;
+    background-color: #fff;
     position: absolute;
     left: 0;
     bottom: -1px;
-    width: 100%;
-    height: 2px;
   }
   
   @media screen and (max-width: 425px) {
